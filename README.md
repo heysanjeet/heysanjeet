@@ -23,7 +23,7 @@
 import * from @heysanjeet
 let sanjeet = {
   code: [Java, Python, SQL, Javascript, HTML, CSS],
-  tools: [Spring boot, Node.js, Django, Docker, Git, Postman, AWS, Azure, Jira],
+  tools: [Spring boot, Node.js, Django, Docker, Git, Maven, Postman, AWS, Azure, Jira],
   experience: {
                         Bosch.: "Software Developer",
                         Société Générale: "Specialist Software Engineer"
